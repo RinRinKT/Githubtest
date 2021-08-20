@@ -8,6 +8,7 @@ public class Helll : MonoBehaviour
     void Start()
     {
         Debug.Log("What");
+        Debug.Log("(ÅLÅEÉ÷ÅE`)ímÇÁÇÒÇ™Ç»");
     }
 
     // Update is called once per frame
